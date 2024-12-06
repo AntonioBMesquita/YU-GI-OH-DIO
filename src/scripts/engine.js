@@ -50,13 +50,6 @@ const cardData = [
     img: `${pathImages}exodia.png`,
     winOf: [0,3],
     loseOf: [1],
-  },{
-    id: 3,
-    name: "Giant Rat",
-    type: "Paper",
-    img: `${pathImages}GiantRat3.jpg`,
-    winOf: [1],
-    loseOf: [2],
   },
 ];
 
